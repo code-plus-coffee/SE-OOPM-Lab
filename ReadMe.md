@@ -1,6 +1,6 @@
-# Data Structures Lab
+# OOPM: Java Lab
 
-* Here, you will find the code files for our **Data Structures Lab** here.
+* Here, you will find the code files for our **OOPM Java Lab** here.
 
 * All the experiments should be uploaded by **26 October 2019** on our [ERP](https://bit.ly/terna-erp).
 
@@ -10,18 +10,23 @@
 
 #### Experiments List
 
-1. Stack Operations
-2. Infix to Postfix Conversion
-3. Circular Queue
-4. Double Ended Queue
-5. Single Linked List
-6. Double Linked List
-7. Binary Search Tree
-8. Graphs
-9. Searching
-10. Sorting
-11. Project
+1. Details using Scanner Class
+2. Armstrong Number
+3. Pyramid Pattern
+4. String Operations
+5. Area of Geometric Shapes
+6. Packages Demonstration
+7. Matrix Operations
+8. Demonstration of String & StringBuffer Methods
+9. Student Management Using Vector
+10. Examination System using Inheritance
+11. Vehicle Mechanism using Interfaces
+12. Arithmetic Sum using Abstract Class
+13. Exception Handling
+14. Multithreading
+15. Synchronized Methods
+16. Applets
 
 ---
 
-`2019 • Code Plus Coffee`
+`Code Plus Coffee • 2019`
